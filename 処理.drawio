@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15" version="28.2.7">
+  <diagram name="ページ1" id="D4_nk_Bo1HQeK2BHcGfn">
+    <mxGraphModel dx="673" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Spk6TiEBm2NEKn_2dtMf-0" />
+        <mxCell id="Spk6TiEBm2NEKn_2dtMf-1" parent="Spk6TiEBm2NEKn_2dtMf-0" />
+        <mxCell id="gHZhR3lM7U9omGcD--y5-0" value="開始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Spk6TiEBm2NEKn_2dtMf-1">
+          <mxGeometry x="240" y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHZhR3lM7U9omGcD--y5-1" value="クライアント&lt;div&gt;接続待機&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Spk6TiEBm2NEKn_2dtMf-1">
+          <mxGeometry x="240" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHZhR3lM7U9omGcD--y5-3" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="Spk6TiEBm2NEKn_2dtMf-1">
+          <mxGeometry x="282.5" y="140" width="35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gHZhR3lM7U9omGcD--y5-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="Spk6TiEBm2NEKn_2dtMf-1">
+          <mxGeometry x="282.5" y="220" width="35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gHZhR3lM7U9omGcD--y5-6" value="開始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Spk6TiEBm2NEKn_2dtMf-1">
+          <mxGeometry x="440" y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHZhR3lM7U9omGcD--y5-7" value="メタバース起動" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Spk6TiEBm2NEKn_2dtMf-1">
+          <mxGeometry x="240" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHZhR3lM7U9omGcD--y5-8" value="クライアント側アプリ起動" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Spk6TiEBm2NEKn_2dtMf-1">
+          <mxGeometry x="440" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHZhR3lM7U9omGcD--y5-9" value="ユーザー情報送信" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Spk6TiEBm2NEKn_2dtMf-1">
+          <mxGeometry x="440" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHZhR3lM7U9omGcD--y5-10" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="Spk6TiEBm2NEKn_2dtMf-1">
+          <mxGeometry x="482.5" y="220" width="35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gHZhR3lM7U9omGcD--y5-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="Spk6TiEBm2NEKn_2dtMf-1">
+          <mxGeometry x="482.5" y="140" width="35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gHZhR3lM7U9omGcD--y5-13" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" vertex="1" parent="Spk6TiEBm2NEKn_2dtMf-1">
+          <mxGeometry x="640" y="250" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHZhR3lM7U9omGcD--y5-14" value="ワールド読み込み" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Spk6TiEBm2NEKn_2dtMf-1">
+          <mxGeometry x="440" y="330" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHZhR3lM7U9omGcD--y5-20" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="Spk6TiEBm2NEKn_2dtMf-1">
+          <mxGeometry x="282.5" y="300" width="35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gHZhR3lM7U9omGcD--y5-21" value="ワールドデータ送信" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Spk6TiEBm2NEKn_2dtMf-1">
+          <mxGeometry x="240" y="330" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHZhR3lM7U9omGcD--y5-22" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;rotation=90;" vertex="1" parent="Spk6TiEBm2NEKn_2dtMf-1">
+          <mxGeometry x="378.5" y="260" width="35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gHZhR3lM7U9omGcD--y5-23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;rotation=-90;" vertex="1" parent="Spk6TiEBm2NEKn_2dtMf-1">
+          <mxGeometry x="379" y="340" width="35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gHZhR3lM7U9omGcD--y5-24" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="Spk6TiEBm2NEKn_2dtMf-1">
+          <mxGeometry x="482.5" y="380" width="35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gHZhR3lM7U9omGcD--y5-25" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="Spk6TiEBm2NEKn_2dtMf-1">
+          <mxGeometry x="282.5" y="380" width="35" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
